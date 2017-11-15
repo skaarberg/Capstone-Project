@@ -5,7 +5,7 @@ android {
         config {
             keyAlias 'bike'
             keyPassword 'sykkel'
-            storeFile file('/Users/jrs/Dropbox/BikeFriend/bikefriend-keystore')
+            storeFile file('bikefriend-keystore')
             storePassword 'sykkel'
         }
     }
