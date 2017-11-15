@@ -1,0 +1,1 @@
+To use google maps, enter a Google Maps key in the Android Manifest (on line 54).
